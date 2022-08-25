@@ -1,0 +1,11 @@
+{
+    "name": "Greet SPA",
+    "description": "Greeting NFT on Spanish Language. It says Hola to all people who see this NFT",
+    "image": "https://gateway.pinata.cloud/ipfs/QmeGfWyKPCxFdmAs37kDT3XbLMGeQRXhC5TRxe7nBCvFih",
+    "attributes": [
+        {
+            "language": "SPA-spa",
+            "value": "Hola"
+        }
+    ]
+}

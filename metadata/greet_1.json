@@ -1,0 +1,11 @@
+{
+    "name": "Greet RU",
+    "description": "Greeting NFT on Russian Language. It says Привет to all people who see this NFT",
+    "image": "https://gateway.pinata.cloud/ipfs/QmZx8QhXVRAU4YDDieYfJVcdXGasRB1ot9PdXXoLwMaohh",
+    "attributes": [
+        {
+            "language": "RU-ru",
+            "value": "Привет"
+        }
+    ]
+}

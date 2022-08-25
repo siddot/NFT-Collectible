@@ -1,0 +1,11 @@
+{
+    "name": "Greet EN",
+    "description": "Greeting NFT on English Language. It says Hello to all people who see this NFT",
+    "image": "https://gateway.pinata.cloud/ipfs/QmdyLJomu4B2QgFdoHMAkBcHd6h2kV5au1h6SANb332Jeq",
+    "attributes": [
+        {
+            "language": "EN-en",
+            "value": "Hello"
+        }
+    ]
+}
